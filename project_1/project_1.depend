@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1755887075 source:d:\courses\embedded systems\self_learning\c_programming\c_problems\project_1\sdb.c
+	<stdio.h>
+	"SDB.h"
+
+1755887075 d:\courses\embedded systems\self_learning\c_programming\c_problems\project_1\sdb.h
+	"STD.h"
+
+1755887075 d:\courses\embedded systems\self_learning\c_programming\c_problems\project_1\std.h
+
+1755887075 source:d:\courses\embedded systems\self_learning\c_programming\c_problems\project_1\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+
+1755887163 source:d:\courses\embedded systems\self_learning\c_programming\c_problems\project_1\main.c
+	"SDB.h"
+
